@@ -4,6 +4,13 @@ An AI-powered healthcare assistant built using LLMs and tool-based agents. The s
 
 ---
 
+## 🚀 Live Demo
+
+👉 Try the app here:
+https://agentic-healthcare-assistant-nlt68lq8fuscnw7w5hqn9p.streamlit.app/
+
+⚠️ You will need your own Groq API key to use the app.
+
 ## 🚀 Features
 
 * 🔍 Multi-tool agent (Wikipedia, PubMed, Web Search, Drug Info, BMI Calculator)
